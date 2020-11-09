@@ -7,5 +7,5 @@ The code in the BlazeFace-PyTorch folder is a direct port of [BlazeFace-PyTorch]
 
 The code in the ImageClassifier folder is a direct port of [Image classification from scratch](https://keras.io/examples/vision/image_classification_from_scratch/), which is originally based on Keras. For various reason, the code doesn't reproduce the exact result of the original code. There are numerical errors, but the classification is still valid.
 
-Note that these is inference only. Pretrained weights are statically included into the executable.
+Note that these are inference only. Pretrained weights are statically included into the executable.
 
